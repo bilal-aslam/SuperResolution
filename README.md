@@ -1,2 +1,2 @@
 # SuperResolution
-This is a project that improvest he image quality by upsacaling it using machine learning
+This is a project that improves the image quality by upsacaling it, using machine learning.
